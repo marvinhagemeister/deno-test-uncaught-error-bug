@@ -15,7 +15,7 @@ Check file:///Users/marvinhagemeister/dev/test/deno-bugs/test-console/foo.ts
 running 1 test from ./foo.ts
 Foo ... FAILED (12ms)
 ------- output -------
-Server running: http://localhost:8080/
+Server running: http://localhost:8300/
 Listening on http://localhost:8300/
 ```
 
